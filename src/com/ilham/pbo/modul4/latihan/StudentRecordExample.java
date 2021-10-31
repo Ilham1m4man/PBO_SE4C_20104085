@@ -1,4 +1,4 @@
-package com.ilham.pbo.modul6.latihan;
+package com.ilham.pbo.modul4.latihan;
 
 public class StudentRecordExample {
     public static void main(String[] args) {
