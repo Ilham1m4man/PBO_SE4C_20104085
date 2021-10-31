@@ -1,4 +1,4 @@
-package com.ilham.pbo.modul6.percobaan;
+package com.ilham.pbo.modul4.percobaan;
 
 public class Bank {
     public static void main(String[] args) {
