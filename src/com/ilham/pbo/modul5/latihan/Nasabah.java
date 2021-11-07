@@ -3,7 +3,7 @@ package com.ilham.pbo.modul5.latihan;
 public class Nasabah {
     private String namaAwal;
     private String namaAkhir;
-    Tabungan tabungan;
+    private Tabungan tabungan;
 
     public Nasabah(String namaAwal, String namaAkhir){
         this.namaAkhir = namaAkhir;
